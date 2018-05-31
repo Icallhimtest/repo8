@@ -8,5 +8,5 @@ _logger.info('dvedvedve')
 
 class Product():
 
-    def test(self):
+    def test():
         print('TEST')
